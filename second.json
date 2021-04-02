@@ -1,0 +1,31 @@
+{
+  "android": [
+{
+ "book": "Harsh Mohan",
+"author": "Pathology",
+          "link": "https://ia801609.us.archive.org/4/items/HarshMohanTextbookOfPathology7thEdition/Harsh%20Mohan%20Textbook%20of%20Pathology%2C%207th%20edition.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"Harsh Mohan Textbook of Pathology, 7th edition.pdf"
+
+    }
+,
+{
+ "book": "Sastry",
+"author": "Microbiology",
+          "link": "https://ia902900.us.archive.org/3/items/medicoserver1/Essentials%20of%20Medical%20Microbiology%20%E2%80%93%201st%20edition%40medicosideas.com.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"Essentials of Medical Microbiology – 1st edition@medicosideas.com"
+
+    }
+,
+{
+ "book": "KD Tripathi",
+"author": "Pharmacology",
+          "link": "https://ia800600.us.archive.org/6/items/KDTripathi7thEditionEssentialsOfMedicalPharmacology/KD_Tripathi_7th_Edition_Essentials_of_Medical_Pharmacology.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"KD_Tripathi_7th_Edition_Essentials_of_Medical_Pharmacology.pdf"
+
+    }
+
+  ]
+}
