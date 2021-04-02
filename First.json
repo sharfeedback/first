@@ -1,0 +1,63 @@
+{
+  "android": [
+  {
+      "book": "BD Chaurasia",
+      "author": "Volume 1",
+      "link": "https://ia902809.us.archive.org/19/items/BDChaurasiasHumanAnatomyVolume1MedicosTimes/BD_Chaurasia%E2%80%99s_Human_Anatomy%2C%20Volume%201%20-%20Upper%20Limb%20Thorax%2C%206th%20Edition.pdf",
+      "img":"https://i.imgur.com/F0bqnH9.jpg",
+      "filename":"BD_Chaurasia’s_Human_Anatomy, Volume 1 - Upper Limb Thorax, 6th Edition (1)"
+    },
+{
+ "book": "BD Chaurasia",
+"author": "Volume 2",
+          "link": "https://ia802803.us.archive.org/5/items/BDChaurasiasHumanAnatomyVolume2-LowerLimbAbdomanAndPelvis6thEditionMedicosTimes/BD%20Chaurasia%E2%80%99s%20Human%20Anatomy%2C%20Volume%202%20%E2%80%93%20Lower%20Limb%2C%20Abdoman%20and%20Pelvis%2C%206th%20Edition.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"BD Chaurasia’s Human Anatomy, Volume 2 – Lower Limb, Abdoman and Pelvis, 6th Edition"
+
+    },
+{
+ "book": "BD Chaurasia",
+"author": "Volume 3",
+          "link": "https://ia903101.us.archive.org/29/items/BDChaurasiasHumanAnatomyVolume3HeadNeckAndBrain6thEdition/BD_Chaurasia%E2%80%99s_Human_Anatomy%2C%20Volume%203%20-%20Head-Neck%20and%20Brain%206th%20Edition.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"BD_Chaurasia’s_Human_Anatomy, Volume 3 - Head-Neck and Brain 6th Edition"
+
+    },
+{
+ "book": "BD Chaurasia",
+"author": "Volume 4",
+          "link": "https://ia802807.us.archive.org/12/items/BDChaurasiaSHandbookOfGeneralAnatomy4thEdition_201808/BD%20Chaurasia_s%20Handbook%20of%20General%20Anatomy%2C%204th%20Edition.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"B D Chaurasia's Handbook of General Anatomy (4th Ed)"
+
+    }
+,
+{
+ "book": "K Sembulingam",
+"author": "Physiology",
+          "link": "https://ia801901.us.archive.org/26/items/KSembulingamEssentialsOfMedicalPhysiology6thEdition/K%20Sembulingam%20-%20Essentials%20of%20Medical%20Physiology%2C%206th%20Edition.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"K Sembulingam - Essentials of Medical Physiology, 6th Edition.pdf"
+
+    }
+,
+{
+ "book": "Satyanarayana",
+"author": "Biochemistry ",
+          "link": "https://ia802907.us.archive.org/29/items/BiochemistryByU.satyanarayana/Biochemistry__satyanarayana_chakrapani_cbbxch.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"Biochemistry__satyanarayana_chakrapani_cbbxch.pdf"
+
+    }
+,
+{
+ "book": "DM Vasudevan",
+"author": "Biochemistry ",
+          "link": "https://ia803105.us.archive.org/23/items/medserver4/Textbook%20of%20Biochemistry%20for%20Medical%20Students%2C%207E%20%28DM%20Vasudevan%29.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"Textbook of Biochemistry for Medical Students, 7E (DM Vasudevan).pdf"
+
+    }
+
+  ]
+}
